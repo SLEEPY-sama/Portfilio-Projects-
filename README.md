@@ -54,6 +54,27 @@ https://github.com/SLEEPY-sama/Elevator-Simulation
 
 ---
 
+## Rentmare - Rent Management Android Application
+
+Android application for tenant and rent management using Java and Firebase.
+
+### Features
+- Firebase authentication
+- Firestore integration
+- Rent tracking system
+- Persistent payment logic
+- Android UI systems
+
+### Tech Used
+- Java
+- Firebase
+- Android Studio
+
+### Links
+💻 Source Code:
+https://github.com/SLEEPY-sama/Rentmare
+
+
 ## Infinite Runner with Gravity Flip Mechanics
 
 Endless runner game featuring gravity switching mechanics and responsive controls.
@@ -74,25 +95,6 @@ https://itch.io/game/edit/4519236
 
 ---
 
-## Rentmare - Rent Management Android Application
-
-Android application for tenant and rent management using Java and Firebase.
-
-### Features
-- Firebase authentication
-- Firestore integration
-- Rent tracking system
-- Persistent payment logic
-- Android UI systems
-
-### Tech Used
-- Java
-- Firebase
-- Android Studio
-
-### Links
-💻 Source Code:
-https://github.com/SLEEPY-sama/Rentmare
 
 ---
 
