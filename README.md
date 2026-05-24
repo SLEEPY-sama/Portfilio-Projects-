@@ -74,6 +74,21 @@ Android application for tenant and rent management using Java and Firebase.
 💻 Source Code:
 https://github.com/SLEEPY-sama/Rentmare
 
+## DSA Practice Repository
+
+Repository containing DSA practice problems and learning exercises.
+
+### Topics
+- Arrays
+- Linked Lists
+- Recursion
+- Stacks & Queues
+- Sorting Algorithms
+
+### Links
+💻 Repository:
+https://github.com/SLEEPY-sama/DSA-practice-files
+
 
 ## Infinite Runner with Gravity Flip Mechanics
 
@@ -117,20 +132,6 @@ https://github.com/SLEEPY-sama/Stack-vs-Queue-visual-
 
 ---
 
-## DSA Practice Repository
-
-Repository containing DSA practice problems and learning exercises.
-
-### Topics
-- Arrays
-- Linked Lists
-- Recursion
-- Stacks & Queues
-- Sorting Algorithms
-
-### Links
-💻 Repository:
-https://github.com/SLEEPY-sama/DSA-practice-files
 
 ---
 
