@@ -1,16 +1,51 @@
 # Rohit Walunj Portfolio
 
-Software Developer | Unity Developer | IT Engineering Student
+Unity Developer | Software Developer | IT Engineering Student
 
-Passionate about building gameplay systems, simulations, interactive applications, and real-time logic using Unity, C#, Java, and Firebase.
+Passionate about gameplay programming, computer vision, simulations, interactive applications, and real-time systems development using Unity, C#, Java, Firebase, and emerging technologies.
 
-Currently improving problem-solving and DSA skills while developing practical software and game projects.
+Currently building projects involving game development, computer vision, algorithm visualization, and software engineering while continuously improving problem-solving and DSA skills.
 
 ---
 
 # Projects
 
 ---
+## Computer Vision Pose Detection System
+
+Real-time upper body tracking system developed in Unity using MediaPipe and computer vision techniques.
+
+### Features
+
+* Live webcam feed integration
+* Real-time pose landmark detection
+* Upper body tracking
+* Head detection
+* Shoulder detection
+* Elbow detection
+* Wrist detection
+* Joint marker visualization
+* MediaPipe integration inside Unity
+
+### Tech Used
+
+* Unity
+* C#
+* MediaPipe
+* Computer Vision
+* Webcam Processing
+
+### Highlights
+
+* Implemented real-time human pose tracking
+* Processed webcam input for landmark detection
+* Visualized body joints using Unity objects
+* Built as a technical assessment project for a Game Developer role
+
+### Links
+
+💻 Source Code:
+https://github.com/SLEEPY-sama/Computer-Vision-Pose-detection-
 
 ## Chhala - Horror Walk Simulation Game
 
